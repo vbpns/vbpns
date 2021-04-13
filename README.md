@@ -1,12 +1,15 @@
-Hi there 👋
-I'm a Software Engineer Specialist working in São Paulo, Brazil.
+### Hi there 👋
 
-BIO
+#### I'm a Software Engineer Specialist working in São Paulo, Brazil.
 
-🏢 I'm currently working at Neon Pagamentos
+##### NOW
 
-⚙️ I use daily: .cs, .ts
+- ✨ I’m currently learning Python
 
-🌱 Learning all about Open Source
+##### BIO
 
-⚡️ Fun fact: I'm a huge fan of League of Legends
+- 🏢 I'm currently working at **Neon Pagamentos**
+- ⚙️ I use daily: `.cs`, `.ts`
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: [https://www.linkedin.com/in/viniciusblasek/](https://www.linkedin.com/in/viniciusblasek/)
+- ⚡️ Fun fact: I'm a huge fan of League of Legends
