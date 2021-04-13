@@ -29,3 +29,5 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=kafka)
