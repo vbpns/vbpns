@@ -7,6 +7,6 @@ BIO
 
 ⚙️ I use daily: .cs, .ts
 
-🌱 Learning all about Open Sourc
+🌱 Learning all about Open Source
 
 ⚡️ Fun fact: I'm a huge fan of League of Legends
