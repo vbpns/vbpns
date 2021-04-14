@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer Specialist working in São Paulo, Brazil.
+#### I'm a Software Engineer working in São Paulo, Brazil.
 
 ##### NOW
 
